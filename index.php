@@ -17,7 +17,7 @@
         if(isset($_GET['page'])){
             include "pages/" . $_GET['page'] . ".php";
         } else {
-            include "pages/about.php";
+            include "pages/home.php";
         }
         
         // Footer
