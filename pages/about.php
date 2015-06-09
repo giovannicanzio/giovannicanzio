@@ -1,0 +1,4 @@
+<section class="about row">
+    <h4 class="u-full-width">About</h4>
+    <p class="u-full-width">This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
+</section>
