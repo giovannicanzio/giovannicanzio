@@ -8,8 +8,10 @@
   <div class="container">
     <?php 
         // Header/Navigation block
+        echo "<div class=\"row\">";
         include "include/header.php";
         include "include/nav.php";
+        echo "</div>";
 
         // Content block
         if(isset($_GET['page'])){

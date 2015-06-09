@@ -1,4 +1,4 @@
-<nav class="row">
+<nav class="four columns">
     <a href="index.php?page=about">about</a>
     <a href="index.php?page=portfolio">portfolio</a>
     <a href="index.php?page=blog">blog</a>
